@@ -1,7 +1,4 @@
-"Yearly Albedo Decrease","Effective Radiative Forcing
-(W/m-2)","Equiv. CO2e
-PPM","Equiv. CO2 Em.
-(GTCO2)",Temp Increase (Celsius)
+"Yearly Albedo Decrease","Effective Radiative Forcing (W/m-2)","Equiv. CO2e PPM","Equiv. CO2 Em. (GTCO2)","Temp Increase (Celsius)"
 0.0002,0.02,1.52,26,0.01
 0.0004,0.041,3.07,53,0.02
 0.0006,0.061,4.62,80,0.03
